@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ElMassas</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on ElMassas</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Mar 2024 16:46:21 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C2PA</title>
+      <link>http://localhost:1313/tags/c2pa/</link>
+      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
+      <guid>http://localhost:1313/tags/c2pa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dystopian</title>
+      <link>http://localhost:1313/tags/dystopian/</link>
+      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
+      <guid>http://localhost:1313/tags/dystopian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
+      <guid>http://localhost:1313/tags/tech/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

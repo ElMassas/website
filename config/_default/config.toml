@@ -1,0 +1,13 @@
+theme = "congo"
+
+baseURL = "https://localhost:1313/"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+summaryLength = 0
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -1,0 +1,35 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "ElMassas"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  description = "Miguel Luis personal website"
+
+[params.author]
+  name = "Miguel Luis"
+  image = "img/miguelLuis.jpeg"
+  headline = "Tech guy that likes other topics"
+  bio = "Poasnd"
+  links = [
+  { email = "mailto:misc@elmassas.com" },
+  { github = "https://github.com/ElMassas" },
+  { instagram = "https://instagram.com/el.massas" },
+  { linkedin = "https://www.linkedin.com/in/miguel-filipe-lu%C3%ADs/" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  { medium = "https://elmassas.medium.com/" },
+  { reddit = "https://www.reddit.com/user/el_massas/" },
+  { steam = "https://steamcommunity.com/id/miguel_massas/" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  { twitch = "https://www.twitch.tv/elmassastv" },
+  { x-twitter = "https://x.com/el_massas" },
+  #   { youtube = "https://youtube.com/username" },
+  { mal = "https://myanimelist.net/profile/elmassas" },
+  { bluesky = "https://bsky.app/profile/elmassas.bsky.social" },
+  { ko-fi = "https://ko-fi.com/elmassas" }
+  ]
