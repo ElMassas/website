@@ -1,6 +1,6 @@
 theme = "congo"
 
-baseURL = "https://localhost:1313/"
+baseURL = "https://elmassas.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -11,3 +11,6 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params]
+  custom_css = "custom.css" 

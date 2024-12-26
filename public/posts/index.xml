@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ElMassas</title>
+    <title>Blog Posts on ElMassas</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on ElMassas</description>
+    <description>Recent content in Blog Posts on ElMassas</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Mar 2024 16:46:21 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OpenAI, closed future</title>
-      <link>http://localhost:1313/posts/2024/openai_closed_future/</link>
-      <pubDate>Wed, 13 Mar 2024 16:46:21 -0800</pubDate>
-      <guid>http://localhost:1313/posts/2024/openai_closed_future/</guid>
+      <title>There&#39;s more than just the Hub</title>
+      <link>http://localhost:1313/posts/theres_more_than_the_git_hub/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/theres_more_than_the_git_hub/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Um esquerdalhas vai ao &#43; Liberdade</title>
+      <link>http://localhost:1313/posts/um_esquerdalhada_vai_ao_mais_liberdade/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/um_esquerdalhada_vai_ao_mais_liberdade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI, closed future</title>
+      <link>http://localhost:1313/posts/openai_closed_future/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/openai_closed_future/</guid>
+      <description>The dangers that multi-modal AI agents can bring us</description>
     </item>
     <item>
       <title>C2PA the omnipresent snitch</title>
-      <link>http://localhost:1313/posts/2024/c2pa_the_omnipresent_snitch/</link>
-      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
-      <guid>http://localhost:1313/posts/2024/c2pa_the_omnipresent_snitch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/2024/theres_more_than_the_git_hub/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/theres_more_than_the_git_hub/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/2024/um_esquerdalhada_vai_ao_mais_liberdade/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/um_esquerdalhada_vai_ao_mais_liberdade/</guid>
+      <link>http://localhost:1313/posts/c2pa_the_omnipresent_snitch/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/c2pa_the_omnipresent_snitch/</guid>
       <description></description>
     </item>
   </channel>

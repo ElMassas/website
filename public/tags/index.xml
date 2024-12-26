@@ -6,34 +6,118 @@
     <description>Recent content in Tags on ElMassas</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2024 16:46:21 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Configuration</title>
+      <link>http://localhost:1313/tags/configuration/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/configuration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Convention</title>
+      <link>http://localhost:1313/tags/convention/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/convention/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Criticism</title>
+      <link>http://localhost:1313/tags/criticism/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/criticism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liberalism</title>
+      <link>http://localhost:1313/tags/liberalism/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/liberalism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liberatarianism</title>
+      <link>http://localhost:1313/tags/liberatarianism/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/liberatarianism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/tags/politics/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tech/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ai</title>
       <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Openai</title>
+      <link>http://localhost:1313/tags/openai/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sora</title>
+      <link>http://localhost:1313/tags/sora/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video</title>
+      <link>http://localhost:1313/tags/video/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/video/</guid>
       <description></description>
     </item>
     <item>
       <title>C2PA</title>
       <link>http://localhost:1313/tags/c2pa/</link>
-      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/c2pa/</guid>
       <description></description>
     </item>
     <item>
       <title>Dystopian</title>
       <link>http://localhost:1313/tags/dystopian/</link>
-      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/dystopian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:1313/tags/tech/</link>
-      <pubDate>Mon, 04 Mar 2024 16:46:21 -0800</pubDate>
-      <guid>http://localhost:1313/tags/tech/</guid>
       <description></description>
     </item>
   </channel>
