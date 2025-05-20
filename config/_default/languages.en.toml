@@ -17,17 +17,14 @@ title = "ElMassas"
   headline = "Tech guy that likes other topics"
   bio = "DevSecOps Engineer"
   links = [
-  { github = "https://github.com/ElMassas" },
+  { gitlab = "https://gitlab.com/ElMassas" },
   { instagram = "https://instagram.com/el.massas" },
   { linkedin = "https://www.linkedin.com/in/miguel-filipe-lu%C3%ADs/" },
   { twitch = "https://www.twitch.tv/elmassastv" },
-  #   { mastodon = "https://mastodon.instance/@username" },
-  #   { tiktok = "https://tiktok.com/@username" },
-  { x-twitter = "https://x.com/el_massas" },
-  #   { youtube = "https://youtube.com/username" },
+  { tiktok = "https://www.tiktok.com/@ElMassonas" },
+  { youtube = "https://www.youtube.com/@el_massas" },
   { mal = "https://myanimelist.net/profile/elmassas" },
   { bluesky = "https://bsky.app/profile/elmassas.bsky.social" },
   { ko-fi = "https://ko-fi.com/elmassas" },
   { email = "mailto:misc@elmassas.com" }
-
   ]
